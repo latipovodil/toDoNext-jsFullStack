@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Tarvuz",
+        "price": 25000
+    },
+    {
+        "id": 2,
+        "name": "Piyoz",
+        "price": 10000
+    },
+    {
+        "id": 4,
+        "name": "qalmapir",
+        "price": 5000
+    },
+    {
+        "id": 5,
+        "name": "Qulupnay",
+        "price": 55000
+    }
+]
